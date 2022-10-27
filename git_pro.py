@@ -1,4 +1,4 @@
 def hello():
-    print("Hellou uudestaan dev2")
-    print("testaan toimiiko")
+    print("Tämä on sparri4 koodi")
+   
     return
